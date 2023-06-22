@@ -65,7 +65,7 @@
     "lerna": "^3.16.2",
     "moment": "^2.27.0",
     "sass": "~1.32.13",
-    "semver": "^6.2.0",
+    "semver": "^7.5.2",
     "shelljs": "^0.8.4",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.1",
